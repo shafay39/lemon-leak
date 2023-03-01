@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP8AAAAAAAD////uAAAA8O/+7k8OAAD/7/JP3u0AAP8u/xvU7Q/wLy7v/+3+D/AiLu/ULVIP8CIu79QtUg/wLy7v/y1C/wD/Lv8bJEL/AP/v8k/+//8A8P/+7u8EAAAA////8A4AAAAA/wAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myEnemy"
+    },
+    "image2": {
+        "data": "hwQEAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mysincity"
+    },
+    "image3": {
+        "data": "hwQIAAgAAAAAAPAAAAD//wAA/wAAAP8AAAD//wDw/wAw/w8AAF8PAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "bob"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
